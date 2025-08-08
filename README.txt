@@ -1,0 +1,1 @@
+This is a template I use for my C projects. Feel free to use at your own convenience. Consider this entire repo under the CC0-1.0 License. See here: https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
