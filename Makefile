@@ -19,7 +19,10 @@ compile: $(OBJ)
 
 build: $(OUT)
 
+run:
+	$(OUT)
+
 clean:
 	rm -rf obj/* dist/*
 
-all: clean compile build
+all: clean compile build run
